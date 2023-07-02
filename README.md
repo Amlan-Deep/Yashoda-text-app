@@ -1,6 +1,11 @@
-# Build a WhatsApp Clone with React JS, FireBase and Google Authentication
+#Yashoda text app
 
-# Tech Stack
+This app was built for PS1 programme , to build a chatroom for official communications between personnel at the hospital.
+The aim was to make a whatsapp styled text-app , but with only group-chat facility and Gmail authentication.
+
+live deployment - https://yashoda-text-app.vercel.app/
+
+## Tech Stack used
 - React js
 - Firebase Firestore Realtime DB
 - Material UI
@@ -9,6 +14,4 @@
 - Redux
 - Google Authentication
 
-Credit: Clever Programmer (Rocking Guys)
 
-Checkout detail for firebase setup here: https://youtu.be/pUxrDcITyjg 
